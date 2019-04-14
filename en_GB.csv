@@ -36,5 +36,13 @@
 "The requested cart item doesn't exist.","The requested basket item doesn't exist.",module,Magento_Wishlist
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Wishlist
 "We couldn't add the following product(s) to the shopping cart: %1.","We couldn't add the following product(s) to the shopping basket: %1.",module,Magento_Wishlist
+"Item in Cart","Item in Basket",module,Magento_Checkout
 "We don't recognize or support this file extension type.","We don't recognise or support this file extension type.",module,Magento_Backend
 "We don't recognize or support this file extension type.","We don't recognise or support this file extension type.",module,Magento_ConfigurableProduct
+"
+                    See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ","
+See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ",module,Magento_Paypal
