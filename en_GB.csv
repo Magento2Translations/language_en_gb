@@ -1,6 +1,7 @@
 "Reload Data","Daten neuladen",module,Magento_Backend
 "We can't initialize checkout.","We can't initialise checkout.",module,Magento_Braintree
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Bundle
+"Entity type model must be an instance of '%1'","Entity type model must be an instance of '%1 '",module,Magento_CatalogImportExport
 "We can't add the product to the cart because of an option validation issue.","We can't add the product to the basket because of an option validation issue.",module,Magento_Catalog
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Checkout
 "We can't update the shopping cart.","We can't update the shopping basket.",module,Magento_Checkout
@@ -36,5 +37,14 @@
 "The requested cart item doesn't exist.","The requested basket item doesn't exist.",module,Magento_Wishlist
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Wishlist
 "We couldn't add the following product(s) to the shopping cart: %1.","We couldn't add the following product(s) to the shopping basket: %1.",module,Magento_Wishlist
+"Item in Cart","Item in Basket",module,Magento_Checkout
+"View and edit cart","View and edit basket",module,Magento_Checkout
 "We don't recognize or support this file extension type.","We don't recognise or support this file extension type.",module,Magento_Backend
 "We don't recognize or support this file extension type.","We don't recognise or support this file extension type.",module,Magento_ConfigurableProduct
+"
+                    See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ","
+See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ",module,Magento_Paypal
