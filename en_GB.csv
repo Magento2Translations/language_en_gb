@@ -1,5 +1,11 @@
 "Reload Data","Daten neuladen",module,Magento_Backend
 "We can't initialize checkout.","We can't initialise checkout.",module,Magento_Braintree
+"Europe bank account","European bank account",module,Magento_Braintree
+"Credit card","Credit/Debit card",module,Magento_Braintree
+"Authorization expired","Authorisation expired",module,Magento_Braintree
+Authorizing,Authorising,module,Magento_Braintree
+Authorized,Authorised,module,Magento_Braintree
+Unrecognized,Unrecognised,module,Magento_Braintree
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Bundle
 "We can't add the product to the cart because of an option validation issue.","We can't add the product to the basket because of an option validation issue.",module,Magento_Catalog
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Checkout
@@ -32,9 +38,21 @@
 "We can't save this tax rule right now.","We can't save this VAT rule right now.",module,Magento_Tax
 "We can't delete this tax class right now.","We can't delete this VAT class right now.",module,Magento_Tax
 "We can't save this tax class right now.","We can't save this VAT class right now.",module,Magento_Tax
+"Credit Card was successfully removed","Credit/Debit Card was successfully removed",module,Magento_Vault
+"My Credit Cards","My Credit/Debit Cards",module,Magento_Vault
+"You have no credit cards.","You have no credit/debit cards.",module,Magento_Vault
 "We can't add the item to the cart right now.","We can't add the item to the basket right now.",module,Magento_Wishlist
 "The requested cart item doesn't exist.","The requested basket item doesn't exist.",module,Magento_Wishlist
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Wishlist
 "We couldn't add the following product(s) to the shopping cart: %1.","We couldn't add the following product(s) to the shopping basket: %1.",module,Magento_Wishlist
+"View and edit cart","View and edit basket",module,Magento_Checkout
+"Item in Cart","Item in Basket",module,Magento_Checkout
 "We don't recognize or support this file extension type.","We don't recognise or support this file extension type.",module,Magento_Backend
 "We don't recognize or support this file extension type.","We don't recognise or support this file extension type.",module,Magento_ConfigurableProduct
+"
+                    See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ","
+See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ",module,Magento_Paypal
