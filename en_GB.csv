@@ -1,13 +1,28 @@
+"Please correct the tab configuration and try again. Tab Id should be not empry","Please correct the tab configuration and try again. Tab Id should be not empty",module,Magento_Backend
 "Reload Data","Daten neuladen",module,Magento_Backend
 "We can't initialize checkout.","We can't initialise checkout.",module,Magento_Braintree
+"We can't initialize checkout review.","We can't initialise checkout review.",module,Magento_Braintree
+"We can't update shipping method.","We can't update delivery method.",module,Magento_Braintree
+"Can not find original authorization transaction for partial capture","Can not find original authorisation transaction for partial capture",module,Magento_Braintree
+Shipment,Delivery,module,Magento_Braintree
+State/Province,County,module,Magento_Braintree
+"Please select region, state or province","Please select a county or province",module,Magento_Braintree
+"Zip/Postal Code","Post Code",module,Magento_Braintree
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Bundle
 "We can't add the product to the cart because of an option validation issue.","We can't add the product to the basket because of an option validation issue.",module,Magento_Catalog
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Checkout
 "We can't update the shopping cart.","We can't update the shopping basket.",module,Magento_Checkout
+"Unable to save shipping information. Please, check input data.","Unable to save delivery information. Please, check input data.",module,Magento_Checkout
+"Cart contains virtual product(s) only. Shipping address is not applicable.","Cart contains virtual product(s) only. Delivery address is not applicable.",module,Magento_Checkout
 "You can't add the item to shopping cart.","You can't add the item to shopping basket.",module,Magento_ConfigurableProduct
+"Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
+        new products will be created. Use this step to customize images and price for your new products.","Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
+        new products will be created. Use this step to customise images and price for your new products.",module,Magento_ConfigurableProduct
 "We can't initialize the import model.","We can't initialise the import model.",module,Magento_CurrencySymbol
 "There are no items in customer's shopping cart.","There are no items in customer's shopping basket.",module,Magento_Customer
 "We can't initialize the import model.","We can't initialise the import model.",module,Magento_Directory
+"Gift Messages is not applicable for empty cart","Gift Messages is not applicable for empty basket",module,Magento_GiftMessage
+"Data validation is failed. Please fix errors and re-upload the file..","Data validation is failed. Please fix errors and re-upload the file.",module,Magento_ImportExport
 "We can't initialize Express Checkout.","We can't initialise Express Checkout.",module,Magento_Paypal
 "We can't initialize Express Checkout review.","We can't initialise Express Checkout review.",module,Magento_Paypal
 "We can't update shipping method.","We can't update delivery method.",module,Magento_Paypal
@@ -32,6 +47,9 @@
 "We can't save this tax rule right now.","We can't save this VAT rule right now.",module,Magento_Tax
 "We can't delete this tax class right now.","We can't delete this VAT class right now.",module,Magento_Tax
 "We can't save this tax class right now.","We can't save this VAT class right now.",module,Magento_Tax
+"Initialization error component, check the spelling of the name or the correctness of the call.","Initialisation error component, check the spelling of the name or the correctness of the call.",module,Magento_Ui
+"Initialization error component, check the spelling of the name or the correctness of the call.","Initialisation error component, check the spelling of the name or the correctness of the call.",module,Magento_Ui
+"We found a duplicate of website, country and state fields for a fixed product tax","We found a duplicate of website, country and county fields for a fixed product VAT",module,Magento_Weee
 "We can't add the item to the cart right now.","We can't add the item to the basket right now.",module,Magento_Wishlist
 "The requested cart item doesn't exist.","The requested basket item doesn't exist.",module,Magento_Wishlist
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Wishlist
