@@ -1,0 +1,10 @@
+"Reload Data","Daten neuladen",module,Magento_Backend
+"Item in Cart","Item in Basket",module,Magento_Checkout
+"View and edit cart","View and edit basket",module,Magento_Checkout
+"
+                    See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ","
+See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ",module,Magento_Paypal
