@@ -6,14 +6,14 @@ Or [Mageplaza maintained packages](https://github.com/mageplaza?q=language).
 
 # British English (British English) Magento2 Language Pack (en_GB)
 This is a Language Pack generated from the [official Magento2 translations project](https://crowdin.com/project/magento-2) at [Crowdin](https://crowdin.com).
-The British English (British English) translations used can be found [here](https://crowdin.com/project/magento-2/en).
+The British English (British English) translations used can be found [here](https://crowdin.com/project/magento-2/en-gb).
 This translation is usefull for people living in the United Kingdom (United Kingdom).
 
 For our other language packs look at the [Magento2Translations](http://magento2translations.github.io/) page.
 
 # Version & progress
-This translation is generated from the branch [Head](https://crowdin.com/project/magento-2/en#/Head) at Crowdin and based on the Magento 2.2.0 sourcefiles.
-There have been  32 strings translated of the 8763 strings in the Magento source.
+This translation is generated from the branch [Head](https://crowdin.com/project/magento-2/en-gb#/Head) at Crowdin and based on the Magento 2.3.1 sourcefiles.
+There have been  32 strings translated of the 11254 strings in the Magento source.
 
 Translation progress:![Progress](http://progressed.io/bar/0)
 
@@ -37,7 +37,7 @@ To install this language package manually you need access to your server file sy
 To use this language pack login to your admin panel and goto `Stores -> Configuration -> General > General -> Locale options` and set the '*locale*' option as '*British English (United Kingdom)*'
 
 # Contribute
-To help push the '*British English (British English) Magento2 Language Pack (en_GB)*' forward please goto [this](https://crowdin.com/project/magento-2/en) crowdin page and translate the lines.
+To help push the '*British English (British English) Magento2 Language Pack (en_GB)*' forward please goto [this](https://crowdin.com/project/magento-2/en-gb) crowdin page and translate the lines.
 
 # Authors
 The translations are done by the [official Magento2 translations project](https://crowdin.com/project/magento-2).
