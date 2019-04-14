@@ -1,0 +1,47 @@
+"Reload Data","Daten neuladen",module,Magento_Backend
+"We can't initialize checkout.","We can't initialise checkout.",module,Magento_Braintree
+"We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Bundle
+"We can't add the product to the cart because of an option validation issue.","We can't add the product to the basket because of an option validation issue.",module,Magento_Catalog
+"We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Checkout
+"We can't update the shopping cart.","We can't update the shopping basket.",module,Magento_Checkout
+"You can't add the item to shopping cart.","You can't add the item to shopping basket.",module,Magento_ConfigurableProduct
+"We can't initialize the import model.","We can't initialise the import model.",module,Magento_CurrencySymbol
+"There are no items in customer's shopping cart.","There are no items in customer's shopping basket.",module,Magento_Customer
+"We can't initialize the import model.","We can't initialise the import model.",module,Magento_Directory
+"We can't initialize Express Checkout.","We can't initialise Express Checkout.",module,Magento_Paypal
+"We can't initialize Express Checkout review.","We can't initialise Express Checkout review.",module,Magento_Paypal
+"We can't update shipping method.","We can't update delivery method.",module,Magento_Paypal
+"We'll authorize the amount of %1 as soon as the payment gateway approves it.","We'll authorise the amount of %1 as soon as the payment gateway approves it.",module,Magento_Paypal
+"Buyer's Tax ID","Buyer's VAT ID",module,Magento_Paypal
+"Buyer's Tax ID Type","Buyer's VAT ID Type",module,Magento_Paypal
+"Cart %1 doesn't contain products","Basket %1 doesn't contain products",module,Magento_Quote
+"Cart %1 doesn't contain item  %2","Basket %1 doesn't contain item  %2",module,Magento_Quote
+"We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Sales
+"We can't send the shipment right now.","We can't send the delivery right now.",module,Magento_Sales
+"You don't need to select a shipping address.","You don't need to select a delivery address.",module,Magento_Sales
+"You don't need to select a shipping method.","You don't need to select a delivery method.",module,Magento_Sales
+"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","You are trying to add a quantity for some products that doesn't match the quantity that was delivered.",module,Magento_Shipping
+"We can't initialize shipment for adding tracking number.","We can't initialise delivery for adding tracking number.",module,Magento_Shipping
+"We don't recognize or support the file extension in this shipment: %1.","We don't recognise or support the file extension in this delivery: %1.",module,Magento_Shipping
+"We can't initialize shipment for delete tracking number.","We can't initialise delivery for delete tracking number.",module,Magento_Shipping
+"We can't save the shipment right now.","We can't save the delivery right now.",module,Magento_Shipping
+"Sorry, but we can't deliver to the destination country with this shipping module.","Sorry, but we can't deliver to the destination country with this delivery module.",module,Magento_Shipping
+"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","We don't have enough information to create delivery labels. Please make sure your store information and settings are complete.",module,Magento_Shipping
+"USPS domestic shipments don't use package types.","USPS domestic deliveries don't use package types.",module,Magento_Shipping
+"We can't delete this tax rate right now.","We can't delete this VAT rate right now.",module,Magento_Tax
+"We can't save this tax rule right now.","We can't save this VAT rule right now.",module,Magento_Tax
+"We can't delete this tax class right now.","We can't delete this VAT class right now.",module,Magento_Tax
+"We can't save this tax class right now.","We can't save this VAT class right now.",module,Magento_Tax
+"We can't add the item to the cart right now.","We can't add the item to the basket right now.",module,Magento_Wishlist
+"The requested cart item doesn't exist.","The requested basket item doesn't exist.",module,Magento_Wishlist
+"We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now.",module,Magento_Wishlist
+"We couldn't add the following product(s) to the shopping cart: %1.","We couldn't add the following product(s) to the shopping basket: %1.",module,Magento_Wishlist
+"We don't recognize or support this file extension type.","We don't recognise or support this file extension type.",module,Magento_Backend
+"We don't recognize or support this file extension type.","We don't recognise or support this file extension type.",module,Magento_ConfigurableProduct
+"
+                    See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ","
+See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ",module,Magento_Paypal
