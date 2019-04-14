@@ -38,3 +38,10 @@
 "We couldn't add the following product(s) to the shopping cart: %1.","We couldn't add the following product(s) to the shopping basket: %1.",module,Magento_Wishlist
 "We don't recognize or support this file extension type.","We don't recognise or support this file extension type.",module,Magento_Backend
 "We don't recognize or support this file extension type.","We don't recognise or support this file extension type.",module,Magento_ConfigurableProduct
+"
+                    See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ","
+See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ",module,Magento_Paypal
