@@ -1,9 +1,3 @@
-# Looking for maintainer
-These [Magento2Translations](http://magento2translations.github.io/) packages are unmaintained. This means that from time to time we will run the sync and build from Crowdin. But we probably won't add Magento/Crowdin versions. If you would like to continue the work done here please send us a message.
-
-Have a look at all the other great community maintained packages at [e-conomix/magento-translations](https://github.com/e-conomix/magento-translations).
-Or [Mageplaza maintained packages](https://github.com/mageplaza?q=language).
-
 # British English (British English) Magento2 Language Pack (en_GB)
 This is a Language Pack generated from the [official Magento2 translations project](https://crowdin.com/project/magento-2) at [Crowdin](https://crowdin.com).
 The British English (British English) translations used can be found [here](https://crowdin.com/project/magento-2/en-gb).
@@ -16,6 +10,16 @@ This translation is generated from the branch [2.2.3](https://crowdin.com/projec
 There have been  40 strings translated of the 9742 strings in the Magento source.
 
 Translation progress:![Progress](http://progressed.io/bar/0)
+
+# Maintainance mode
+These [Magento2Translations](http://magento2translations.github.io/) packages are updated on a non-regular basis. We have a system in-place to do the updating automatically but running this is still a manual job and requires financial investment to automate.
+This means that from time to time we will run the sync and build from Crowdin. If you would like to assist please send us a message.
+
+Magento has started the [Magento Localization](https://github.com/magento-l10n) Community Engineering Project to facilitate translating Magento2.
+In the future we might decide to merge this project with [Magento Localization](https://github.com/magento-l10n).
+If they have a similar language pack to this one you can find it [here](https://github.com/magento-l10n/language-en_GB).
+
+Or have a look at all the other great community maintained packages at [e-conomix/magento-translations](https://github.com/e-conomix/magento-translations) and [Mageplaza maintained packages](https://github.com/mageplaza?q=language).
 
 # Installation
 **Please select the git branch appropriate for your magento version from this repo.**
